@@ -1,9 +1,10 @@
-p,
-li{
+p{
 color: dark gray;
 width: 800px;
 font-size: 25px;
 font-family: Courier New;
+border: 1px solid white;
+
 }
 h1{
 color: black;
